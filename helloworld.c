@@ -2,6 +2,6 @@
 
 int main()
 {
-  pritnf("hellowrold\nliangwentaida\n");
+  pritnf("hellowrold\nliangwen\n");
    return 0;  
 }
